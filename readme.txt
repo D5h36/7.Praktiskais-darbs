@@ -1,6 +1,6 @@
 Praktiskais darbs Nr.7.
-Tēma: Attēli. Karte.
-Uzdevumi:
+Tēma: Attēli. Karte.</h2>
+Uzdevumi:</h2>
 1. Versiju kontrole (3 pt).
 ⎯ Darbu veikt izmantojot Git versiju kontroli. Izmantot Git
 mitināšanas pakalpojumu (piemēram, GitHub) nav obligāti.
